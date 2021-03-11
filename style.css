@@ -130,12 +130,20 @@ img {
 body {
   background-color: rgb(242, 242, 205);
 }
-
 #steps {
   background-color: white;
+}
+#why {
+  background-color: rgb(242, 242, 205);  
 }
 
 
 /* escludere i margini? */
+
+/* scalare le immagini */
+img {
+  width: 25%;
+  height: auto;
+};
 
 }
