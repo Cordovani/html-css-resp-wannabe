@@ -126,6 +126,16 @@ img {
   width: 100%;
 }
 
+/* cambi di background */
+body {
+  background-color: rgb(242, 242, 205);
+}
+
+#steps {
+  background-color: white;
+}
+
+
 /* escludere i margini? */
 
 }
