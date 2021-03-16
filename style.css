@@ -93,7 +93,7 @@ img {
 
 .row {
   width: 100%;
-  width: 420px;  
+  /* width: 420px;   */
 }
 
 /* .row > .left, .row > .right, .row > .center {
